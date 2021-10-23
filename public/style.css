@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+#cv-template{
+    display: none;
+}
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
